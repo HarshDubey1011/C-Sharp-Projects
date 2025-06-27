@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\harsh\\Videos\\C#Practice\\Avengers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|c:\\users\\harsh\\videos\\c#practice\\avengers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|c:\\users\\harsh\\videos\\c#practice\\avengers\\magicwarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|solutionrelative:magicwarrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|c:\\users\\harsh\\videos\\c#practice\\avengers\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|solutionrelative:warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|c:\\users\\harsh\\videos\\c#practice\\avengers\\cantteleport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,8 +27,8 @@
       "RelativeMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|solutionrelative:battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|c:\\users\\harsh\\videos\\c#practice\\avengers\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|solutionrelative:warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|c:\\users\\harsh\\videos\\c#practice\\avengers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765A12A7-8146-4107-97C2-32C197FE8001}|Avengers.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MagicWarrior.cs",
               "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\Avengers\\MagicWarrior.cs",
               "RelativeDocumentMoniker": "MagicWarrior.cs",
               "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\Avengers\\MagicWarrior.cs",
               "RelativeToolTip": "MagicWarrior.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T15:20:15.045Z",
               "EditorCaption": ""
@@ -87,20 +87,20 @@
               "RelativeDocumentMoniker": "Teleport.cs",
               "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\Avengers\\Teleport.cs",
               "RelativeToolTip": "Teleport.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T15:17:21.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\Avengers\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\Avengers\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T13:59:01.828Z",
               "EditorCaption": ""
@@ -113,20 +113,20 @@
               "RelativeDocumentMoniker": "Battle.cs",
               "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\Avengers\\Battle.cs",
               "RelativeToolTip": "Battle.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwBcAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T14:12:52.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Warrior.cs",
               "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\Avengers\\Warrior.cs",
               "RelativeDocumentMoniker": "Warrior.cs",
               "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\Avengers\\Warrior.cs",
               "RelativeToolTip": "Warrior.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T14:05:51.569Z",
               "EditorCaption": ""

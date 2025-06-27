@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dac\\Desktop\\dotNet_Batch_1\\Day1\\assignment\\PracticeAgain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D856155-CC11-4D0E-B8BA-28E1B6AAA549}|PracticeAgain.csproj|c:\\users\\dac\\desktop\\dotnet_batch_1\\day1\\assignment\\practiceagain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D856155-CC11-4D0E-B8BA-28E1B6AAA549}|PracticeAgain.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D856155-CC11-4D0E-B8BA-28E1B6AAA549}|PracticeAgain.csproj|c:\\users\\dac\\desktop\\dotnet_batch_1\\day1\\assignment\\practiceagain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D856155-CC11-4D0E-B8BA-28E1B6AAA549}|PracticeAgain.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D856155-CC11-4D0E-B8BA-28E1B6AAA549}|PracticeAgain.csproj|c:\\users\\dac\\desktop\\dotnet_batch_1\\day1\\assignment\\practiceagain\\studentimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D856155-CC11-4D0E-B8BA-28E1B6AAA549}|PracticeAgain.csproj|solutionrelative:studentimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D856155-CC11-4D0E-B8BA-28E1B6AAA549}|PracticeAgain.csproj|c:\\users\\dac\\desktop\\dotnet_batch_1\\day1\\assignment\\practiceagain\\studentinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D856155-CC11-4D0E-B8BA-28E1B6AAA549}|PracticeAgain.csproj|solutionrelative:studentinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dac\\Downloads\\InheritanceAssigment.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\dotNet_Batch_1\\Day1\\assignment\\PracticeAgain\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\dac\\Desktop\\dotNet_Batch_1\\Day1\\assignment\\PracticeAgain\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:21:27.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentImpl.cs",
+              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\dotNet_Batch_1\\Day1\\assignment\\PracticeAgain\\StudentImpl.cs",
+              "RelativeDocumentMoniker": "StudentImpl.cs",
+              "ToolTip": "C:\\Users\\dac\\Desktop\\dotNet_Batch_1\\Day1\\assignment\\PracticeAgain\\StudentImpl.cs",
+              "RelativeToolTip": "StudentImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:47:36.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentInter.cs",
+              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\dotNet_Batch_1\\Day1\\assignment\\PracticeAgain\\StudentInter.cs",
+              "RelativeDocumentMoniker": "StudentInter.cs",
+              "ToolTip": "C:\\Users\\dac\\Desktop\\dotNet_Batch_1\\Day1\\assignment\\PracticeAgain\\StudentInter.cs",
+              "RelativeToolTip": "StudentInter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:17:55.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InheritanceAssigment.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\dac\\Downloads\\InheritanceAssigment.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\InheritanceAssigment.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\dac\\Downloads\\InheritanceAssigment.csproj.nuget.g.props",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\InheritanceAssigment.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-27T08:59:55.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dac\\Desktop\\dotNet_Batch_1\\Day1\\assignment\\PracticeAgain\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dac\\Desktop\\dotNet_Batch_1\\Day1\\assignment\\PracticeAgain\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T08:57:03.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
