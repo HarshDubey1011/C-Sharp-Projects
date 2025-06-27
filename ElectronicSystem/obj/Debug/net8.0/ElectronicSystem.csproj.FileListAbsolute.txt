@@ -1,0 +1,14 @@
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\obj\Debug\net8.0\ElectronicSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\obj\Debug\net8.0\ElectronicSystem.AssemblyInfoInputs.cache
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\obj\Debug\net8.0\ElectronicSystem.AssemblyInfo.cs
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\obj\Debug\net8.0\ElectronicSystem.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\bin\Debug\net8.0\ElectronicSystem.exe
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\bin\Debug\net8.0\ElectronicSystem.deps.json
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\bin\Debug\net8.0\ElectronicSystem.runtimeconfig.json
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\bin\Debug\net8.0\ElectronicSystem.dll
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\bin\Debug\net8.0\ElectronicSystem.pdb
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\obj\Debug\net8.0\ElectronicSystem.dll
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\obj\Debug\net8.0\refint\ElectronicSystem.dll
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\obj\Debug\net8.0\ElectronicSystem.pdb
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\obj\Debug\net8.0\ElectronicSystem.genruntimeconfig.cache
+C:\Users\harsh\Videos\C#Practice\ElectronicSystem\obj\Debug\net8.0\ref\ElectronicSystem.dll

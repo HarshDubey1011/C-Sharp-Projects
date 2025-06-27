@@ -1,0 +1,14 @@
+C:\Users\harsh\Videos\C#Practice\Avengers\bin\Debug\net8.0\Avengers.exe
+C:\Users\harsh\Videos\C#Practice\Avengers\bin\Debug\net8.0\Avengers.deps.json
+C:\Users\harsh\Videos\C#Practice\Avengers\bin\Debug\net8.0\Avengers.runtimeconfig.json
+C:\Users\harsh\Videos\C#Practice\Avengers\bin\Debug\net8.0\Avengers.dll
+C:\Users\harsh\Videos\C#Practice\Avengers\bin\Debug\net8.0\Avengers.pdb
+C:\Users\harsh\Videos\C#Practice\Avengers\obj\Debug\net8.0\Avengers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Videos\C#Practice\Avengers\obj\Debug\net8.0\Avengers.AssemblyInfoInputs.cache
+C:\Users\harsh\Videos\C#Practice\Avengers\obj\Debug\net8.0\Avengers.AssemblyInfo.cs
+C:\Users\harsh\Videos\C#Practice\Avengers\obj\Debug\net8.0\Avengers.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Videos\C#Practice\Avengers\obj\Debug\net8.0\Avengers.dll
+C:\Users\harsh\Videos\C#Practice\Avengers\obj\Debug\net8.0\refint\Avengers.dll
+C:\Users\harsh\Videos\C#Practice\Avengers\obj\Debug\net8.0\Avengers.pdb
+C:\Users\harsh\Videos\C#Practice\Avengers\obj\Debug\net8.0\Avengers.genruntimeconfig.cache
+C:\Users\harsh\Videos\C#Practice\Avengers\obj\Debug\net8.0\ref\Avengers.dll

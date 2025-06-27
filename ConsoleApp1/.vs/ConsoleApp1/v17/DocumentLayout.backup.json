@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\harsh\\videos\\c#practice\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\harsh\\videos\\c#practice\\consoleapp1\\consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\harsh\\videos\\c#practice\\consoleapp1\\consoleapp1\\idrivable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\idrivable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\harsh\\videos\\c#practice\\consoleapp1\\consoleapp1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\harsh\\videos\\c#practice\\consoleapp1\\consoleapp1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\harsh\\videos\\c#practice\\consoleapp1\\consoleapp1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45EEB5D3-B626-43B4-A77B-2B10FA7F2992}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\Vehicle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Vehicle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:23:49.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDrivable.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\IDrivable.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IDrivable.cs",
+              "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\IDrivable.cs",
+              "RelativeToolTip": "ConsoleApp1\\IDrivable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T13:22:41.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\Rectangle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\Rectangle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Rectangle.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:59:47.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\Circle.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Circle.cs",
+              "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\Circle.cs",
+              "RelativeToolTip": "ConsoleApp1\\Circle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:56:20.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\Shape.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Shape.cs",
+              "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\Shape.cs",
+              "RelativeToolTip": "ConsoleApp1\\Shape.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:54:03.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAAALABAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T02:51:43.965Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
