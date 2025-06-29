@@ -1,0 +1,15 @@
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\bin\Debug\net8.0\ZooManagementSystem.exe
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\bin\Debug\net8.0\ZooManagementSystem.deps.json
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\bin\Debug\net8.0\ZooManagementSystem.runtimeconfig.json
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\bin\Debug\net8.0\ZooManagementSystem.dll
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\bin\Debug\net8.0\ZooManagementSystem.pdb
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.AssemblyInfoInputs.cache
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.AssemblyInfo.cs
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.sourcelink.json
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.dll
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\obj\Debug\net8.0\refint\ZooManagementSystem.dll
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.pdb
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\obj\Debug\net8.0\ZooManagementSystem.genruntimeconfig.cache
+C:\Users\harsh\Videos\C#Practice\ZooManagementSystem\obj\Debug\net8.0\ref\ZooManagementSystem.dll
