@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{1397CC2F-B5BF-4ADD-A0FD-ED9D3480091C}|Collections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1397CC2F-B5BF-4ADD-A0FD-ED9D3480091C}|Collections.csproj|c:\\users\\harsh\\videos\\c#practice\\collections\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1397CC2F-B5BF-4ADD-A0FD-ED9D3480091C}|Collections.csproj|solutionrelative:box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1397CC2F-B5BF-4ADD-A0FD-ED9D3480091C}|Collections.csproj|c:\\users\\harsh\\videos\\c#practice\\collections\\animalfarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1397CC2F-B5BF-4ADD-A0FD-ED9D3480091C}|Collections.csproj|solutionrelative:animalfarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1397CC2F-B5BF-4ADD-A0FD-ED9D3480091C}|Collections.csproj|c:\\users\\harsh\\videos\\c#practice\\collections\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1397CC2F-B5BF-4ADD-A0FD-ED9D3480091C}|Collections.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\Collections\\Box.cs",
+              "RelativeDocumentMoniker": "Box.cs",
+              "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\Collections\\Box.cs",
+              "RelativeToolTip": "Box.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA5wE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:47:23.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalFarm.cs",
+              "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\Collections\\AnimalFarm.cs",
+              "RelativeDocumentMoniker": "AnimalFarm.cs",
+              "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\Collections\\AnimalFarm.cs",
+              "RelativeToolTip": "AnimalFarm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T15:40:01.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\harsh\\Videos\\C#Practice\\Collections\\Animal.cs",
               "RelativeDocumentMoniker": "Animal.cs",
               "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\Collections\\Animal.cs",
               "RelativeToolTip": "Animal.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T01:32:15.318Z",
               "EditorCaption": ""
@@ -41,7 +75,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\harsh\\Videos\\C#Practice\\Collections\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAQwIkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAL4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T07:26:20.725Z",
               "EditorCaption": ""
