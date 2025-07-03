@@ -1,0 +1,15 @@
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\bin\Debug\net8.0\ThreadPractice.exe
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\bin\Debug\net8.0\ThreadPractice.deps.json
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\bin\Debug\net8.0\ThreadPractice.runtimeconfig.json
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\bin\Debug\net8.0\ThreadPractice.dll
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\bin\Debug\net8.0\ThreadPractice.pdb
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.AssemblyInfoInputs.cache
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.AssemblyInfo.cs
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.csproj.CoreCompileInputs.cache
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.sourcelink.json
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.dll
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\obj\Debug\net8.0\refint\ThreadPractice.dll
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.pdb
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\obj\Debug\net8.0\ThreadPractice.genruntimeconfig.cache
+C:\Users\harsh\Videos\C#Practice\ThreadPractice\obj\Debug\net8.0\ref\ThreadPractice.dll
